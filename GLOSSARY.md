@@ -12,6 +12,12 @@
   - [Software License Agreement (SLA)](#software-license-agreement-sla)
   - [Query's Per Second (QPS)](#querys-per-second-qps)
 
+## System Components
+
+### Rate Limiting
+
+A technique used to control the amount of incoming and outgoing traffic to or from a network or service. It helps prevent abuse, ensure fair usage, and maintain system stability by limiting the number of requests a user or system can make within a specified time frame
+
 ## Metrics
 
 ### Availability
