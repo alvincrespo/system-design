@@ -82,7 +82,9 @@ A mathematical concept where numbers are expressed as 2 raised to an exponent. C
 A formal contract between a service provider and a customer that defines the level of service expected, including performance metrics, responsibilities, and remedies for service failures.
 
 [Amazon Compute - Service Level Agreement (SLA)](https://aws.amazon.com/compute/sla/)
+
 [Google Cloud - Compute Engine Service Level Agreement (SLA)](https://cloud.google.com/compute/sla)
+
 [Microsoft Azure - Service Level Agreements (SLA) for Online Services](https://azure.microsoft.com/en-us/support/legal/sla/)
 
 ### Query's Per Second (QPS)
