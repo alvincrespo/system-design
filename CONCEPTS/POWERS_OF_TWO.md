@@ -1,4 +1,4 @@
-# Powers of Two
+# Powers of Two for System Design
 
 A practical guide for back-of-the-envelope calculations, with examples from the healthcare/pharmacy domain.
 
@@ -16,6 +16,7 @@ A practical guide for back-of-the-envelope calculations, with examples from the 
 | 30 | 1,073,741,824 | 1 billion | 1 GB |
 | 32 | 4,294,967,296 | | 4 GB |
 | 40 | 1,099,511,627,776 | 1 trillion | 1 TB |
+| 50 | 1,125,899,906,842,624 | 1 quadrillion | 1 PB |
 
 ---
 
@@ -35,6 +36,7 @@ When working through calculations, chain these relationships:
 - **Millions → MB** (2^20)
 - **Billions → GB** (2^30)
 - **Trillions → TB** (2^40)
+- **Quadrillions → PB** (2^50)
 
 ### Key Rules
 
