@@ -2,13 +2,14 @@
 
 ## Table of Contents
 
-- [Glossary](#glossary)
-  - [Metrics](#metrics)
-    - [Back-of-the-Envelope Calculation](#back-of-the-envelope-calculation)
-      - [Power of Two](#power-of-two)
-    - [Query's Per Second (QPS)](#querys-per-second-qps)
-    - [Latency](#latency)
-      - [Latency Numbers Every Programmer Should Know](#latency-numbers-every-programmer-should-know)
+- [Metrics](#metrics)
+  - [Availability](#availability)
+  - [Back-of-the-Envelope Calculation](#back-of-the-envelope-calculation)
+  - [Latency](#latency)
+    - [Latency Numbers Every Programmer Should Know](#latency-numbers-every-programmer-should-know)
+    - [Power of Two](#power-of-two)
+  - [Software License Agreement (SLA)](#software-license-agreement-sla)
+  - [Query's Per Second (QPS)](#querys-per-second-qps)
 
 ## Metrics
 
