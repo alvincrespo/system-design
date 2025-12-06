@@ -5,6 +5,7 @@
 - [Metrics](#metrics)
   - [Availability](#availability)
   - [Back-of-the-Envelope Calculation](#back-of-the-envelope-calculation)
+  - [Daily Active Users (DAU)](#daily-active-users-dau)
   - [Latency](#latency)
     - [Latency Numbers Every Programmer Should Know](#latency-numbers-every-programmer-should-know)
     - [Power of Two](#power-of-two)
@@ -30,6 +31,10 @@ The proportion of time a system is operational and accessible when required for 
 A rough calculation or estimate made quickly with minimal data, often used for initial assessments or feasibility studies.
 
 *Source: Jeff Dean, Google* [Building Software Systems At Google and Lessons Learned](https://youtu.be/modXC5IWTJI?si=hyVLZ-55y_0ph16g)
+
+### Daily Active Users (DAU)
+
+The number of unique users who engage with a product or service on a daily basis. It is a key metric for measuring user engagement and growth.
 
 ### Latency
 
