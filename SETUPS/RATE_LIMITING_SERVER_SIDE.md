@@ -1,6 +1,6 @@
 # Rate Limiting - Server Side
 
-<img src="../visuals/rater_limiter_server_side_middleware.png" alt="Rate Limiter - Server Side" width="600px" alt="Single Server Setup"/>
+<img src="../visuals/rate_limiter_server_side_middleware.png" alt="Rate Limiter - Server Side" width="600px" alt="Single Server Setup"/>
 
 ## Request Flow
 

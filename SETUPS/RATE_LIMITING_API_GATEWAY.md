@@ -1,6 +1,6 @@
 # Rate Limiting - API Gateway
 
-<img src="../visuals/rater_limiter_api_gateway.png" alt="Rate Limiter - API Gateway" width="600px"/>
+<img src="../visuals/rate_limiter_api_gateway.png" alt="Rate Limiter - API Gateway" width="600px"/>
 
 ## Request Flow
 

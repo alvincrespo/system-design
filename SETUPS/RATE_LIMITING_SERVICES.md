@@ -1,6 +1,6 @@
 # Rate Limiting - Individual Services
 
-<img src="../visuals/rater_limiter_services.png" alt="Rate Limiter - Services" width="600px"/>
+<img src="../visuals/rate_limiter_services.png" alt="Rate Limiter - Services" width="600px"/>
 
 ## Request Flow
 
