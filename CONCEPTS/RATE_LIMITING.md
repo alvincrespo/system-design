@@ -22,9 +22,7 @@ Rate limiting can be applied at various points in a system architecture:
 
 **[Server Side](../SETUPS/RATE_LIMITING_SERVER_SIDE.md)**: Implementing rate limiting on the server side allows for direct control over how many requests a service can handle.
 
-**API Gateway**: Implementing rate limiting at the API gateway level allows for centralized control over incoming requests before they reach backend services.
-
-**Load Balancer**: Rate limiting at the load balancer can help distribute traffic evenly and prevent overload on individual servers.
+**[API Gateway](../SETUPS/RATE_LIMITING_API_GATEWAY.md)**: Implementing rate limiting at the API gateway level allows for centralized control over incoming requests before they reach backend services.
 
 **Individual Services**: Services can implement their own rate limiting to protect themselves from excessive requests.
 
